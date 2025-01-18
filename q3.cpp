@@ -25,6 +25,8 @@ int main() {
         std::cout << i << reversed << std::endl;
     }
 }
+
+// https://stackoverflow.com/a/217605/15048758
 inline std::string rtrim(std::string s) {
     s.erase(std::find_if(s.rbegin(), s.rend(), [](unsigned char ch) {
         return !std::isspace(ch);
