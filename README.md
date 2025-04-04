@@ -11,4 +11,4 @@ In C++
 
 ### story
 
-i was orignally making this in C++ but i forgot how to use hashmap in C++ on question 3 so i just decided to rewrite everything in rust because i know rust better
+i was orignally making this in C++ but i forgot how to use hashmap in C++ on question 2 so i just decided to rewrite everything in rust because i know rust better
